@@ -1,0 +1,22 @@
+#div{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    margin: 200px;
+    
+}
+
+#div h1{
+    font-size: 30vw;
+    text-transform: uppercase;
+font-family: poppins;
+}
+body{
+    overflow-x: hidden;
+    
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
