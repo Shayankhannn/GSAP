@@ -1,6 +1,6 @@
 
 
-var initialPath = `M 10 100 Q 500 100 990 100`
+var path = `M 10 100 Q 500 100 990 100`
 
 var finalPath = `M 10 100 Q 500 100 990 100`
 
